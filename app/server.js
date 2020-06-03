@@ -7,7 +7,7 @@ const HOST = '0.0.0.0';
 
 const app = express();
 app.get('/', (req, res) => {
-  res.send('Hello world.... Also Jeremy has a funny looking face, but dont tell him I said so !! Also I am the best !! hello again\n');
+  res.send('Hello world.... Also Jeremy has a funny looking face,Azure Stack is awesome !! hello again\n');
 });
 
 app.listen(PORT, HOST);
